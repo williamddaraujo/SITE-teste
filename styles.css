@@ -1,0 +1,57 @@
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  aside {
+    width: 50em;
+    height: auto;
+    margin:1em;
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 1em;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+  }
+
+  aside img {
+    width: 500px;
+    height: auto;
+
+  }
+  
+  {
+    padding: 10px;
+  }
+
+nav a{
+  color: white;
+  padding: 10px;
+  display: block;
+}
+
+   h1{
+    color: steelblue;
+    text-align: left;
+    
+    
+   }
+
+  main img {
+    width: 200px;
+    height: auto;
+
+  }
+  
+
+  p {
+    padding: 0;
+  }
+  
+  
+  footer {
+    margin-top: 1em;
+    border-top: 1px solid #000;
+    text-align: center;
+  }
